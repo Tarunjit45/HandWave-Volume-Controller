@@ -1,31 +1,34 @@
-# ✋ HandWave Volume Controller  
-### Control Your System Volume Using Hand Gestures (Python + OpenCV + MediaPipe + PyCAW)
+# ✋ HandWave Control System  
+### Control Your **System Volume**, **Mouse Cursor**, and **Clicks** Using Hand Gestures  
+(Python + OpenCV + MediaPipe + PyCAW + PyAutoGUI)
 
-This project lets you control your Windows system volume just by moving your fingers in front of your webcam — no keyboard, no mouse, pure gesture control!
+HandWave Control System upgrades your laptop into a futuristic gesture-controlled device.  
+You can now **move the mouse**, **left-click**, **right-click**, **control volume**, and even **draw lines**, all using your hand in front of your webcam.
 
 ---
 
 ## 🚀 Features
-
-- 🔍 Real-time hand tracking using MediaPipe  
-- 🔊 Volume control using PyCAW  
+- 🖱️ **Mouse cursor control** using index finger  
+- 👌 **Left-click** using pinch (thumb + index)  
+- 👉 **Right-click** using middle-finger pinch  
+- 🎚️ **Volume control** with thumb–index distance  
+- ✋ Real-time hand tracking with MediaPipe  
 - 🎥 Smooth OpenCV webcam feed  
-- 📏 Thumb–Index finger gesture for volume control  
-- ⚡ Fast & lightweight
+- ⚡ Lightweight & fast performance  
 
 ---
 
 ## 🛠 Requirements
-
 - Python 3.8–3.12  
-- Windows OS (PyCAW requirement)  
+- Windows OS (required for PyCAW)  
 - Webcam  
 
 ---
 
 ## 🛠 Installation Guide
 
-### 1️⃣ Clone the repository
+### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/yourusername/HandWave-Volume-Controller
-cd HandWave-Volume-Controller
+git clone https://github.com/yourusername/HandWave-Control-System
+cd HandWave-Control-System
+
