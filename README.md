@@ -10,16 +10,16 @@ HandWave is a A real-time AI gesture controller that lets you move the cursor, c
 
 ## ✨ Key Features & Architecture
 
-- **High-Performance Architecture:** Engineered using modern `Python` best practices.
-- **Modular & Scalable Design:** Structured code organization for easy maintenance and deployment.
+- **High-Performance Codebase:** Built using `Python` and modern engineering principles.
+- **Modular & Scalable Design:** Structured directory tree for seamless development and deployment.
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack & Dependencies
 
-- **Primary Language:** `Python`
-- **Frameworks & Libraries:** Python
-- **Deployment Target:** Vercel Edge / Cloud Infrastructure
+- **Core Language:** `Python`
+- **Libraries & Tools:** Python
+- **Deployment Infrastructure:** Vercel Edge / Cloud Services
 
-## 📁 Project Directory Structure
+## 📁 Architecture & File Layout
 
 ```text
 HandWave-Volume-Controller/
@@ -38,13 +38,13 @@ HandWave-Volume-Controller/
 ├── requirements.txt
 ```
 
-## 🚀 Getting Started
+## 🚀 Quickstart & Installation
 
 ### Prerequisites
 - Python 3.9+
 - pip package manager
 
-### Installation & Local Setup
+### Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -57,12 +57,12 @@ HandWave-Volume-Controller/
    pip install -r requirements.txt
    ```
 
-3. **Run the application:**
+3. **Execute application:**
    ```bash
    python main.py
    ```
 
-## 📜 License & Author
+## 📜 Author & License
 
-Engineered with ❤️ by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
-Released under the **MIT License**.
+Architected & Developed by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
+Distributed under the **MIT License**.
